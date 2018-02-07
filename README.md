@@ -7,13 +7,21 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## git
 
 初始化一个Git仓库，使用 git init 命令。
+
     $ git init
+
 添加文件到Git仓库，分两步：
+
     第一步，使用命令git add <file>，注意，可反复多次使用，添加多个文件。
+
     第二步，使用命令git commit，完成。
+
         $ git add file1.txt
+
         $ git add file2.txt file3.txt
+
         $ git commit -m "add 3 files."
+        
 
 ## Development server
 
